@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/css_art_retro_cassette/static/css/main.3b1de3f3.css",
+    "main.js": "/css_art_retro_cassette/static/js/main.aa1d67c1.js",
+    "index.html": "/css_art_retro_cassette/index.html",
+    "main.3b1de3f3.css.map": "/css_art_retro_cassette/static/css/main.3b1de3f3.css.map",
+    "main.aa1d67c1.js.map": "/css_art_retro_cassette/static/js/main.aa1d67c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b1de3f3.css",
+    "static/js/main.aa1d67c1.js"
+  ]
+}
